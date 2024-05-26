@@ -46,10 +46,6 @@ SecureErase is a simple and user-friendly application designed to securely overw
 
 ---
 
-  
-
-## Installation
-
 ### If your system uses an SSD and has TRIM enabled, then most probably you don't have to use this tool. By default, most SSDs now have the TRIM feature enabled. If you want to check if your SSD has the TRIM feature enabled, you can follow these steps to check if TRIM is enabled in Windows 10/11.
 
 1. Type  **cmd** in the start menu, select  **Command Prompt** from the list, and choose **Run as Administrator**.
@@ -57,6 +53,10 @@ SecureErase is a simple and user-friendly application designed to securely overw
 3. If TRIM is enabled, it will display “**DisableDeleteNotify=0**”. Else if the value “**DisableDeleteNotify=1**” is displayed that indicates the TRIM is disabled
   
 ### If your system uses an SSD and TRIM is not enabled, or if you don't have an SSD, then continue to the installation.
+
+
+## Installation
+
 
 1. Install Python 3.11 or above.
 
