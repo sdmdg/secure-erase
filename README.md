@@ -23,13 +23,13 @@ SecureErase is a simple and user-friendly application designed to securely overw
 
   
 
-* Batch file secure delete
+* Secure File Deletion
 
-* Free Space clean
+* Free Space Cleaning
 
-* Different overwrite methods
+* Multiple Overwrite Passes
 
-* Dark mode with a user-friendly UI
+* User-Friendly Interface
 
   
   
