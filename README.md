@@ -2,7 +2,7 @@
 
 SecureErase is a simple and user-friendly application designed to securely overwrites the files to prevent data recovery.
 
-![Logo](https://github.com/sdmdg/vaultapp/assets/151946448/68282bff-03ca-4c43-877b-fd961e1763da)
+![Logo](https://github.com/sdmdg/secure-erase/assets/151946448/93240327-dd76-4a80-8849-24ca14ef6c46)
 
 ![img_1](https://github.com/sdmdg/secure-erase/assets/151946448/bff078af-eb49-46f5-8dbc-63a3fbf2fccc)
 
